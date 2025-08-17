@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(to right, #fff0f5, #e0ffff);
+  color: #2c2c2c;
+  font-family: "Georgia", "Times New Roman", serif;
+  margin: 3em;
+  line-height: 1.8;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #6a0dad;
+  text-shadow: 1px 1px 2px #ccc;
+  border-bottom: 3px double #6a0dad;
+  padding-bottom: 0.5em;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: #2e8b57;
+  font-style: italic;
+  margin-top: -0.5em;
+}
+
+p {
+  font-size: 1.1em;
+  max-width: 700px;
+  background-color: #ffffffcc;
+  padding: 1em;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-left: 5px solid #6a0dad;
+}
